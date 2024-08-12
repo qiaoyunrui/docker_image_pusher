@@ -1,2 +1,1 @@
-parseplatform/parse-server
-parseplatform/parse-dashboard
+openjdk:17
